@@ -1,6 +1,7 @@
-<img width="3780" height="1890" alt="Blue White Modern Online Business Webinar Banner (4)" src="https://github.com/user-attachments/assets/957f9399-72cf-4d91-81ab-29255db16758" />
+<img width="3780" height="1890" alt="Blue White Modern Online Business Webinar Banner" src="https://github.com/user-attachments/assets/353920a1-000b-4d2b-9576-7ea0279b2e1e" />
 
 ## 👋 About Me  
+
 This is **Mohammad Arib Hasan**, a **web developer** specializing in turning complex challenges into elegant digital solutions. I leverage **React** and **Tailwind CSS** to build applications that are not only performant and scalable but also exceptionally user-friendly. My passion lies in delivering impactful projects through clean, efficient, and modern code, ensuring a seamless experience for every user.
 
 ---
