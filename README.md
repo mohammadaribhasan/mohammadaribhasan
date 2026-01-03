@@ -24,7 +24,7 @@ This is **Mohammad Arib Hasan**, a **web developer** specializing in turning com
  
 
 ### **Exploring**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
 
 
 ---
