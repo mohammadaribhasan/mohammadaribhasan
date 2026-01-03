@@ -14,7 +14,16 @@
 </div>
 
 ---
+ I am a **Web Developer** specializing in turning complex challenges into elegant digital solutions. I leverage **React** and **Tailwind CSS** to build applications that are not only performant and scalable but also exceptionally user-friendly. My passion lies in delivering impactful projects through clean, efficient, and modern code.
+</p>
 
+### 🛠️ What I'm up to:
+- 🌱 **Learning:** Deep diving into **NestJS** and **TypeScript** 🚀
+- 🏗️ **Projects:** Building a comprehensive **Tourism Website**
+- ⚡ **Focus:** Mastering **Backend Best Practices** with Node.js & Express.js
+</div>
+
+---
 
 ## 🛠️ My Digital Workshop (Skills)
 
