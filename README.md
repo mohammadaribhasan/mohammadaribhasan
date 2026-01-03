@@ -1,46 +1,81 @@
-<img width="3780" height="1890" alt="Blue White Modern Online Business Webinar Banner" src="https://github.com/user-attachments/assets/353920a1-000b-4d2b-9576-7ea0279b2e1e" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Mohammad%20Arib%20Hasan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-## 👋 About Me  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48CAE4&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%26+Tailwind+Specialist;NestJS+Explorer;Building+Elegant+Digital+Solutions" alt="Typing SVG" />
 
-This is **Mohammad Arib Hasan**, a **web developer** specializing in turning complex challenges into elegant digital solutions. I leverage **React** and **Tailwind CSS** to build applications that are not only performant and scalable but also exceptionally user-friendly. My passion lies in delivering impactful projects through clean, efficient, and modern code, ensuring a seamless experience for every user.
-
----
-
-## 🚀 Current Activities  
-- 🌱 I’m currently learning **NestJS** and **TypeScript**  
-- 💻 Building a **tourism website** project  
-- ⚡ Exploring **backend best practices** with Node.js & Express.js  
+  <p align="center">
+    <a href="https://mohammadaribhasan.vercel.app/"><strong>Explore My Portfolio 🌐</strong></a>
+  </p>
+</div>
 
 ---
 
-## 🛠 Skills  
+### 💫 About Me
 
-### **Frontend Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+Hello! I'm **Arib**, a passionate web developer who loves turning complex ideas into smooth, user-friendly digital experiences. I believe in clean code, elegant design, and continuous learning.
 
+- 🔭 I’m currently working on a **Tourism Website** project.
+- 🌱 Learning **NestJS** and **TypeScript** to master the backend.
+- ⚡ Fun fact: I love exploring backend architecture as much as crafting pixel-perfect UIs.
+- 💬 Ask me about **React, Tailwind, or Node.js**.
 
-### **Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
- 
-
-### **Exploring**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![NextJS](https://img.shields.io/badge/NextJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-
-
----
-
-## 📊 GitHub Stats  
-
-![Arib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadaribhasan&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadaribhasan&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaribhasan&layout=compact&theme=radical)  
-
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHByYnN5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="150px" />
+</div>
 
 ---
 
-## 🌐 Connect with Me  
+### 🛠️ My Tech Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohammadaribhasan)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadaribhasan)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mdaribhasan)  
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,nestjs,ts,git,vscode,figma" />
+</div>
 
 ---
 
-⭐️ From [Arib](https://github.com/mohammadaribhasan)
+### 🚀 Activity & Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mohammadaribhasan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaribhasan&layout=compact&theme=radical&hide_border=true" height="150px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaribhasan&theme=radical&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/mohammadaribhasan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohammadaribhasan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/mdaribhasan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadaribhasan&color=00b4d8&style=flat-square&label=VISITORS" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaySaeEe/MaySaeEe/master/assets/php.gif" width="100" />
+  <br />
+  <b>Keep coding and stay creative! ✨</b>
+</p>
