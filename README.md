@@ -6,11 +6,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eHpsYm14eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
-  <p align="center">
-    <a href="https://linkedin.com/in/mohammadaribhasan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://mohammadaribhasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
-    <a href="https://x.com/mdaribhasan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  </p>
+  
 </div>
 
 ---
