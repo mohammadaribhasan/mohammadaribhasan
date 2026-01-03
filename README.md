@@ -7,9 +7,8 @@
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eHpsYm14eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
   
-</div>
+</div>s
 
----
  I am a **Web Developer** specializing in turning complex challenges into elegant digital solutions. I leverage **React** and **Tailwind CSS** to build applications that are not only performant and scalable but also exceptionally user-friendly. My passion lies in delivering impactful projects through clean, efficient, and modern code.
 </p>
 
