@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20my%20Digital%20Garden&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20my%20Digital%20Garden&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Building+impactful+digital+solutions;React+%26+Tailwind+Expert;Currently+learning+NestJS+%26+TypeScript;Turning+complex+challenges+into+code)](https://git.io/typing-svg)
 
@@ -50,3 +51,5 @@
   <br />
   <b>Designed with ❤️ by Arib</b>
 </p>
+
+</div>
