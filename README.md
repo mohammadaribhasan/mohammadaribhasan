@@ -1,8 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=300&section=header&text=Mohammad%20Arib%20Hasan&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20my%20Digital%20Garden&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=48CAE4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Tailwind+Expert;NestJS+Enthusiast;Problem+Solver+Extraordinaire;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&width=435&lines=Building+impactful+digital+solutions;React+%26+Tailwind+Expert;Currently+learning+NestJS+%26+TypeScript;Turning+complex+challenges+into+code)](https://git.io/typing-svg)
 
+---
+
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eHpsYm14eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
   <p align="center">
     <a href="https://linkedin.com/in/mohammadaribhasan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://mohammadaribhasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
