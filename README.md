@@ -20,7 +20,7 @@
 </p>
 
 ### 🛠️ What I'm up to:
-- 🌱 **Learning:** Deep diving into **NestJS** and **TypeScript** 🚀
+- 🌱 **Learning:** Deep diving into **Next.JS** and **TypeScript** 🚀
 - 🏗️ **Projects:** Building a comprehensive **Tourism Website**
 - ⚡ **Focus:** Mastering **Backend Best Practices** with Node.js & Express.js
 </div>
