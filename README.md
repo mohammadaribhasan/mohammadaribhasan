@@ -1,6 +1,6 @@
 <div align="center">
   # 👋 Hi there, I'm Mohammad Arib Hasan
-### 💻 Full-Stack Web Developer | React & Tailwind Specialist
+### 💻 Full-Stack Web Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Welcome%20to%20my%20Digital%20Garden&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
